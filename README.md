@@ -59,7 +59,7 @@ Contributions are welcome! Before you start, please make sure to:
 
 ## 🚀 Deployment
 
-This project is deployed on Vercel. You can view the live demo [here](https://infinity-gauntlet-hand-pose.vercel.app).
+This project is deployed on Vercel. You can view the live demo [here](https://infinity-stone-gauntlet-jvwkc4si0-zaynul-abedin-miahs-projects.vercel.app/).
 
 ## 💡 Inspiration
 
