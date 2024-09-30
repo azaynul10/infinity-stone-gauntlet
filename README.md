@@ -17,7 +17,7 @@ After an exhausting day of 3 final exams in 1 day, I decided to embark on an exc
 
 1. Clone the repository:
    ```
-   git clone https://github.com/zaynul-abedin-miah/infinity-stone-gauntlet.git
+   git clone https://github.com/azaynul10/infinity-stone-gauntlet.git
    cd infinity-stone-gauntlet
    ```
 
