@@ -2,7 +2,7 @@
 
 #### A Marvel-ous Project 
 
-![Infinity Gauntlet](https://giphy.com/infinity_gauntlet.gif)
+![Infinity Gauntlet](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdiYWJla3QwenI3dm53ZXlhZDd2cnowbWswM2U2M3d0cW52bm5zZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxfgwY8Tvj1DY5y0/giphy.gif)
 
 ## 🌟 Project Overview
 
@@ -44,7 +44,7 @@ After an exhausting day of 3 final exams in 1 day, I decided to embark on an exc
 
 ## 🎥 Demo
 
-![Demo GIF](https://example.com/infinity_gauntlet_demo.gif)
+![Demo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnkyaDZlOHd4aWg4bmhpMXNxdTdydXdvZ29iOHVwdWNvZGY0aHMzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFbSJaPRTOO1VWRg9k/giphy.gif)
 
 ## 🤝 Contributing
 
