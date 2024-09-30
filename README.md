@@ -1,8 +1,8 @@
 # Infinity Stone Gauntlet Hand Pose Recognition
 
-#### A Marvel-ous Project by Zaynul Abedin Miah
+#### A Marvel-ous Project 
 
-![Infinity Gauntlet](https://example.com/infinity_gauntlet.gif)
+![Infinity Gauntlet](https://giphy.com/infinity_gauntlet.gif)
 
 ## 🌟 Project Overview
 
