@@ -42,9 +42,9 @@ After an exhausting day of 3 final exams in 1 day, I decided to embark on an exc
 - HTML5 Canvas
 - React Webcam
 
-## 🎥 Demo
+## 🎥 Demo (Click the gif below for full project Demo on Youtube)
 
-![Untitled design (2)](https://github.com/user-attachments/assets/e286fedc-cf18-4f0c-95a7-1612f24d1322)
+[![Untitled design (2)](https://github.com/user-attachments/assets/e286fedc-cf18-4f0c-95a7-1612f24d1322)](https://youtu.be/Vd52VdS8OuU?si=4mcipAkZS6YafjW5)
 
 
 ## 🤝 Contributing
