@@ -44,7 +44,8 @@ After an exhausting day of 3 final exams in 1 day, I decided to embark on an exc
 
 ## 🎥 Demo
 
-![Demo GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnkyaDZlOHd4aWg4bmhpMXNxdTdydXdvZ29iOHVwdWNvZGY0aHMzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFbSJaPRTOO1VWRg9k/giphy.gif)
+![Untitled design (2)](https://github.com/user-attachments/assets/e286fedc-cf18-4f0c-95a7-1612f24d1322)
+
 
 ## 🤝 Contributing
 
